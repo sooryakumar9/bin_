@@ -1,3 +1,7 @@
+# Packages : pip install langchain langchain-cohere cohere
+# pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+# pip install --upgrade langchain
+
 import os
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
